@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "167228806564",
+    "project_id": "epsihelpapp",
+    "storage_bucket": "epsihelpapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167228806564:android:ff38c2d50ac79bc4c29d31",
+        "android_client_info": {
+          "package_name": "com.epsihelp.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167228806564-p9n456mm2qp0it674kka0b4kq4grqicr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3fnZz0LXSTq-RH1r2ZjezQHVPUHRpY0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167228806564-p9n456mm2qp0it674kka0b4kq4grqicr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "167228806564-k105a4qasvm4cb4ep7pdltfafplbh4ea.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.espace.support.espaceSupport"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

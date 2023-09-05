@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">167228806564-p9n456mm2qp0it674kka0b4kq4grqicr.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">167228806564</string>
+    <string name="google_api_key" translatable="false">AIzaSyD3fnZz0LXSTq-RH1r2ZjezQHVPUHRpY0s</string>
+    <string name="google_app_id" translatable="false">1:167228806564:android:ff38c2d50ac79bc4c29d31</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD3fnZz0LXSTq-RH1r2ZjezQHVPUHRpY0s</string>
+    <string name="google_storage_bucket" translatable="false">epsihelpapp.appspot.com</string>
+    <string name="project_id" translatable="false">epsihelpapp</string>
+</resources>

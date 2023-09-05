@@ -1,0 +1,12 @@
+boi.walle.modal_progress_hud_nsn-jetified-annotation-experimental-1.1.0-0 C:\Users\dageh\.gradle\caches\transforms-3\3795200b4ef80330da39fee63b1e3f99\transformed\jetified-annotation-experimental-1.1.0\res
+boi.walle.modal_progress_hud_nsn-jetified-window-java-1.0.0-beta04-1 C:\Users\dageh\.gradle\caches\transforms-3\4f8a10da11d41b9ccabff01515190014\transformed\jetified-window-java-1.0.0-beta04\res
+boi.walle.modal_progress_hud_nsn-core-1.6.0-2 C:\Users\dageh\.gradle\caches\transforms-3\ae42e6c01585f28a5adeac7499fca147\transformed\core-1.6.0\res
+boi.walle.modal_progress_hud_nsn-jetified-window-1.0.0-beta04-3 C:\Users\dageh\.gradle\caches\transforms-3\fa8aad42c825af1f34f93ab9a34c8ecb\transformed\jetified-window-1.0.0-beta04\res
+boi.walle.modal_progress_hud_nsn-main-4 C:\Users\dageh\AppData\Local\Pub\Cache\hosted\pub.dev\modal_progress_hud_nsn-0.4.0\android\src\main\res
+boi.walle.modal_progress_hud_nsn-release-5 C:\Users\dageh\AppData\Local\Pub\Cache\hosted\pub.dev\modal_progress_hud_nsn-0.4.0\android\src\release\res
+boi.walle.modal_progress_hud_nsn-pngs-6 C:\Users\dageh\Downloads\EpsiHelpApp_Final\EpsiHelpApp_Final\EpsiHelpApp-master\build\modal_progress_hud_nsn\generated\res\pngs\release
+boi.walle.modal_progress_hud_nsn-resValues-7 C:\Users\dageh\Downloads\EpsiHelpApp_Final\EpsiHelpApp_Final\EpsiHelpApp-master\build\modal_progress_hud_nsn\generated\res\resValues\release
+boi.walle.modal_progress_hud_nsn-rs-8 C:\Users\dageh\Downloads\EpsiHelpApp_Final\EpsiHelpApp_Final\EpsiHelpApp-master\build\modal_progress_hud_nsn\generated\res\rs\release
+boi.walle.modal_progress_hud_nsn-mergeReleaseResources-9 C:\Users\dageh\Downloads\EpsiHelpApp_Final\EpsiHelpApp_Final\EpsiHelpApp-master\build\modal_progress_hud_nsn\intermediates\incremental\release\mergeReleaseResources\merged.dir
+boi.walle.modal_progress_hud_nsn-mergeReleaseResources-10 C:\Users\dageh\Downloads\EpsiHelpApp_Final\EpsiHelpApp_Final\EpsiHelpApp-master\build\modal_progress_hud_nsn\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+boi.walle.modal_progress_hud_nsn-merged_res-11 C:\Users\dageh\Downloads\EpsiHelpApp_Final\EpsiHelpApp_Final\EpsiHelpApp-master\build\modal_progress_hud_nsn\intermediates\merged_res\release

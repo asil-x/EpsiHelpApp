@@ -1,0 +1,4 @@
+#Sun Aug 20 13:43:22 CEST 2023
+base.0=C\:\\Users\\dageh\\Downloads\\EpsiHelpApp_Final\\EpsiHelpApp_Final\\EpsiHelpApp-master\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
